@@ -1,1 +1,0 @@
-j'ai transformer les fichier js en txt pour passer la surveillance de google
